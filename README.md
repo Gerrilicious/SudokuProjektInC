@@ -26,25 +26,35 @@
 	Sprich 2 Punkte pro Kopf (Punkt 4 macht einer)
 	
 # Punktaufteilung
-	1: Zielbestimmung
-	
+	1: Zielbestimmung (Copy & Paste)
+	- Gereon
+
 	2: Produkteinsatz
+	- Fabian
 	
 	3: Produktumgebung
+	- Fabian
 	
 	4: Produktfunktionen (Einzel)
+	- Tanja 
 	
 	5: Produktdaten
+	- Stefan
 	
 	6: Produktleistungen
+	- Janis
 	
 	7: Benutzeroberfläche
+	- Fabian
+	http://codereview.stackexchange.com/questions/37430/sudoku-solver-in-c
 	
 	8: Qualitätszielbestimmung
 	
 	9: Globale Testfälle
-	
+	- Gereon 
+		
 	10: Entwicklungsumgebung
+	-  
 	
 	11: Ergänzungen
 	
