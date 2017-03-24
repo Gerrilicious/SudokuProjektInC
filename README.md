@@ -19,11 +19,13 @@
 	Abgrenzungskriterien:
   	- Ohne Netzwerkfunktionen
 	
-# TODO: Aufteilung
+# TODOS: 
+	
+	Aufteilung
 	Projekt besteht aus 11 Punkte im Pflichtenheft
 	Sprich 2 Punkte pro Kopf (Punkt 4 macht einer)
 	
-#Punktaufteilung
+# Punktaufteilung
 	1: Zielbestimmung
 	
 	2: Produkteinsatz
