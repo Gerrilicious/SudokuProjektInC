@@ -1,5 +1,7 @@
 # SudokuProjektInC
 
+## https://docs.google.com/document/d/1F4sHTM4g7sLjfO7vESrrGV7XMF519HUiaR7DWqdVMbM
+
 	
 	Musskriterien: 
 	- ANSI-C Konsolenanwendung
