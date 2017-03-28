@@ -1,8 +1,10 @@
 # SudokuProjektInC
 
 ## Pflichtenheft Google Docs:
-### https://docs.google.com/document/d/1F4sHTM4g7sLjfO7vESrrGV7XMF519HUiaR7DWqdVMbM
+	 https://docs.google.com/document/d/1F4sHTM4g7sLjfO7vESrrGV7XMF519HUiaR7DWqdVMbM
 
+
+## Kriterien
 	
 	Musskriterien: 
 	- ANSI-C Konsolenanwendung
@@ -22,13 +24,13 @@
 	Abgrenzungskriterien:
   	- Ohne Netzwerkfunktionen
 	
-# TODOS: 
+## TODOS: 
 	
 	Aufteilung
 	Projekt besteht aus 11 Punkte im Pflichtenheft
 	Sprich 2 Punkte pro Kopf (Punkt 4 macht einer)
 	
-# Punktaufteilung
+## Punktaufteilung
 	1: Zielbestimmung (Copy & Paste)
 	- Gereon
 
